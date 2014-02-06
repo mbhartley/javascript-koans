@@ -86,7 +86,7 @@ describe("About Applying What We Have Learnt", function() {
     expect(ingredientCount['mushrooms']).toBe(undefined);
   });
 
-  /*********************************************************************************/
+  /********************************************************************************/
   /* UNCOMMENT FOR EXTRA CREDIT */
   /*
   it("should find the largest prime factor of a composite number", function () {
